@@ -1,0 +1,8 @@
+{
+  "name": "converttoticket",
+  "version": "1.0.0",
+  "description": "With the use of this add-on, emails can be converted into new tickets for our ticketing system.",
+  "main": "index.js",
+  "author": "Hinduja Tech Ltd",
+  "license": "ISC"
+}

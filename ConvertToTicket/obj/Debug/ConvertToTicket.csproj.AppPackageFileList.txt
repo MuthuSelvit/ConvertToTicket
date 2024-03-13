@@ -1,0 +1,2 @@
+bin\Debug\app.publish\OfficeAppManifests\ConvertToTicketManifest.xml
+D:\18462-workplace\OUTLOOK\AddIns\SharePointAddIn1\ConvertToTicket\ConvertToTicket\bin\Debug\app.publish\ConvertToTicket.app
