@@ -10,8 +10,8 @@
 	<DefaultLocale>en-US</DefaultLocale>
 	<DisplayName DefaultValue="ConvertToTicket"/>
 	<Description DefaultValue="Ticketing System"/>
-	<IconUrl DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/ht_logo_small.png"/>
-	<HighResolutionIconUrl DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/ht_logo_small.png"/>
+	<IconUrl DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/Icon32.png"/>
+	<HighResolutionIconUrl DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/Icon64.png"/>
         <SupportUrl DefaultValue="https://learn.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples"/>
 	<AppDomains>
 		<AppDomain>https://helpdesk.hindujatech.com:3695/ticketing_tool/add_ticket_by_mail</AppDomain>
