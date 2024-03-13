@@ -1,13 +1,17 @@
 ﻿ <!-- Created:ce44715c-8c4e-446b-879c-ea9ebe0f09c8 -->
-<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" 
+	xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" 
+	xsi:type="MailApp">
 	<Id>a8ef7e96-a940-4e9b-a47a-54db06e591d6</Id>
 	<Version>1.0.0.0</Version>
 	<ProviderName>Hinduja Tech Limited</ProviderName>
 	<DefaultLocale>en-US</DefaultLocale>
 	<DisplayName DefaultValue="ConvertToTicket"/>
 	<Description DefaultValue="Ticketing System"/>
-	<IconUrl DefaultValue="https://defiancetech1-my.sharepoint.com/:i:/g/personal/hamri_selvi_hindujatech_com/EdjrtuAM_uVNkpp8o-ClIO4BUnbH87-d90Hze6GedmVpLQ?e=gGnFjn"/>
-	<HighResolutionIconUrl DefaultValue="https://defiancetech1-my.sharepoint.com/:i:/g/personal/hamri_selvi_hindujatech_com/EdjrtuAM_uVNkpp8o-ClIO4BUnbH87-d90Hze6GedmVpLQ?e=gGnFjn"/>
+	<IconUrl DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/logo.jpg"/>
+	<HighResolutionIconUrl DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/Icon32.png"/>
 	<SupportUrl DefaultValue="https://helpdesk.hindujatech.com/ "/>
 	<AppDomains>
 		<AppDomain>https://helpdesk.hindujatech.com:3695/ticketing_tool/add_ticket_by_mail</AppDomain>
@@ -23,7 +27,7 @@
 	<FormSettings>
 		<Form xsi:type="ItemRead">
 			<DesktopSettings>
-				<SourceLocation DefaultValue="https://defiancetech1-my.sharepoint.com/:u:/g/personal/hamri_selvi_hindujatech_com/ESiEe7XsO9NGr5ULKpqJqH8BvaZgGul5_vhSP67tmHUE2w?e=gyP1Tb"/>
+				<SourceLocation DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/MessageRead.html"/>
 				<RequestedHeight>250</RequestedHeight>
 			</DesktopSettings>
 		</Form>
@@ -70,13 +74,13 @@
 		</Hosts>
 		<Resources>
 			<bt:Images>
-				<bt:Image id="icon16" DefaultValue="https://defiancetech1-my.sharepoint.com/:i:/g/personal/hamri_selvi_hindujatech_com/EeiuOt_NJGNGqSFyldqRq4kBIUEjM9JhT5RJyI7HnuLKcg?e=mGGyfw"/>
-				<bt:Image id="icon32" DefaultValue="https://defiancetech1-my.sharepoint.com/:i:/g/personal/hamri_selvi_hindujatech_com/EdjrtuAM_uVNkpp8o-ClIO4BUnbH87-d90Hze6GedmVpLQ?e=zWH6Cv"/>
-				<bt:Image id="icon80" DefaultValue="https://defiancetech1-my.sharepoint.com/:i:/g/personal/hamri_selvi_hindujatech_com/EVFXHw89GuJGuiIbCfs5QEYB24lAe4pPYIugbU5rahdl0w?e=x3HqO2"/>
+				<bt:Image id="icon16" DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/Icon16.png"/>
+				<bt:Image id="icon32" DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/Icon32.png"/>
+				<bt:Image id="icon80" DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Images/Icon80.png"/>
 			</bt:Images>
 			<bt:Urls>
-				<bt:Url id="functionFile" DefaultValue="https://defiancetech1-my.sharepoint.com/:u:/g/personal/hamri_selvi_hindujatech_com/EaMK0MWwejtDsl0-gHfOW7wBJg5DIUk_-mARCm3ZJKrcJw?e=QfYOuo"/>
-				<bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://defiancetech1-my.sharepoint.com/:u:/g/personal/hamri_selvi_hindujatech_com/ESiEe7XsO9NGr5ULKpqJqH8BvaZgGul5_vhSP67tmHUE2w?e=OE1Se9"/>
+				<bt:Url id="functionFile" DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/Functions/FunctionFile.html"/>
+				<bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://github.com/MuthuSelvit/ConvertToTicket/blob/master/ConvertToTicketWeb/MessageRead.html"/>
 			</bt:Urls>
 			<bt:ShortStrings>
 				<bt:String id="groupLabel" DefaultValue="My Add-in Group"/>
